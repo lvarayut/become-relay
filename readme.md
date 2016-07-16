@@ -41,11 +41,11 @@ Subscriptions      | [Subscriptions in GraphQL and Relay](http://graphql.org/blo
 
 ## Advanced concepts
 
-Topic                   | Resource                                                                                                                                        | Description
-:--                     | :--                                                                                                                                             | :--
-Official documentation | [Relay official doc](https://facebook.github.io/relay/docs) | Deeply understand Relay by reading the official API references and interfaces
-Data fetching           | [Relay Deep Dive](https://www.youtube.com/watch?v=oPSuvaYmXBY)                                                                                  | Understand the mechanism behind the scene that Relay uses to fetch data
-Building full-stack app | [Building Data-driven React Applications with Relay, GraphQL, and Flux](https://www.pluralsight.com/courses/react-apps-with-relay-graphql-flux) | Build a Relay integrated with Node/Express and MongoDB
+Topic          | Resource                                                                                                                                        | Description
+:--            | :--                                                                                                                                             | :--
+APIs           | [Relay official doc](https://facebook.github.io/relay/docs)                                                                                     | Deeply understand Relay by reading the official API references and interfaces
+Data fetching  | [Relay Deep Dive](https://www.youtube.com/watch?v=oPSuvaYmXBY)                                                                                  | Understand the mechanism behind the scene that Relay uses to fetch data
+Full-stack app | [Building Data-driven React Applications with Relay, GraphQL, and Flux](https://www.pluralsight.com/courses/react-apps-with-relay-graphql-flux) | Build a Relay integrated with Node/Express and MongoDB
 
 ## Learn further
 
