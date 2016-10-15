@@ -38,6 +38,7 @@ Queries and Fragments | [Query data](https://facebook.github.io/relay/docs/guide
 Mutations           | [A beginner's guide to Relay mutations](http://blog.pathgather.com/blog/a-beginners-guide-to-relay-mutations)                    | Learn how to mutate data
 Subscriptions      | [Subscriptions in GraphQL and Relay](http://graphql.org/blog/subscriptions-in-graphql-and-relay/)                                | Understand how to use subscriptions for real time update
 
+> UPDATE: There is a great new resource called [Learn Relay](https://learnrelay.org), which aggregated the whole Relay topics in the table above. It takes you step by step through the fundamental concepts of Relay along with practical examples. We highly recommend you to check it out.
 
 ## Advanced concepts
 
